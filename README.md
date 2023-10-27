@@ -2,11 +2,8 @@ A lot of things catch my eye, trying my best to be good at them. 100% grug brain
 
 Vimmer, JavaScript, TypeScript, Web Development in Full Stack Mode, Writing, Design, UI, Dribbble, and Pretty Things.
 
-<center>
+<img align="center" src="images/picture.jpeg">
 
-<img src="images/picture.jpeg">
-
-</center>
 <!-- ![](images/picture.jpeg){: style="float: left"} -->
 
 The name is Elliott, Elliott Yifan Chen.
