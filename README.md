@@ -1,9 +1,12 @@
-<img align="left" src="images/picture.jpeg" style="padding-right: 40px; height=400px">
-
 A lot of things catch my eye, trying my best to be good at them. 100% grug brain developer, constantly ask dumb quetions, things still work while confused, what a truth of programming, life is better when battery bar is green.
 
 Vimmer, JavaScript, TypeScript, Web Development in Full Stack Mode, Writing, Design, UI, Dribbble, and Pretty Things.
 
+<center>
+
+<img src="images/picture.jpeg">
+
+</center>
 <!-- ![](images/picture.jpeg){: style="float: left"} -->
 
 The name is Elliott, Elliott Yifan Chen.
@@ -19,3 +22,9 @@ The name is Elliott, Elliott Yifan Chen.
 - 🙃 The game is dota2, Void chrono teammates is what I do the best.
 
 - 😭 The car is JDM, 2009 R35, 2023 still R35, I wanna see R36 before I die.
+
+<center>
+
+[![Visits Badge](https://badges.pufler.dev/visits/cyfyifanchen/cyfyifanchen)](https://cyfyifanchen.com)
+
+</center>
