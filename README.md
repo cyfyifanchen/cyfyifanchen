@@ -6,11 +6,11 @@ Vimmer, JavaScript, TypeScript, Web Development in Full Stack Mode, Writing, Des
 
 The name is Elliott, Elliott Yifan Chen.
 
-- 🥯 The city is Shanghai, it has the most coffee shops, but very few places sell bagels. 
+- 😑 The city is Shanghai, it has the most coffee shops, but very few places sell bagels. 
 
-- 🍔 The food is burger, I wanted to go with pizza, but burger comes with fries.
+- 🤩 The food is burger, I wanted to go with pizza, but burger comes with fries.
 
-- 🤩 The music is Jay Chou, mandarin pop is the best, believe it or not. 
+- 🎶 The music is Jay Chou, mandarin pop is the best, believe it or not. 
 
 - 🙏 The anime is Dragon Ball, let Vegeta defeat Goku once, just once, please.
 
