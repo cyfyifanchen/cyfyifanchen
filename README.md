@@ -3,7 +3,7 @@ A lot of things catch my eye, trying my best to be good at them. 100% grug brain
 Vimmer, JavaScript, TypeScript, Web Development in Full Stack Mode, Writing, Design, UI, Dribbble, and Pretty Things.
 
 <p align="center">
-<img src="images/picture.jpeg">
+<img src="images/picture.jpeg" style="border:1px solid gray; padding=10px; height=300px;">
 </p>
 
 <!-- ![](images/picture.jpeg){: style="float: left"} -->
@@ -22,8 +22,8 @@ The name is Elliott, Elliott Yifan Chen.
 
 - 😭 The car is JDM, 2009 R35, 2023 still R35, I wanna see R36 before I die.
 
-<center>
+<p align="cneter">
 
 [![Visits Badge](https://badges.pufler.dev/visits/cyfyifanchen/cyfyifanchen)](https://cyfyifanchen.com)
 
-</center>
+</p>
