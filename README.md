@@ -1,4 +1,4 @@
-<img align="left" src="images/picture.jpeg" style="padding-right: 40px;">
+<img align="left" src="images/picture.jpeg" style="padding-right: 40px; height=400px">
 
 A lot of things catch my eye, trying my best to be good at them. 100% grug brain developer, constantly ask dumb quetions, things still work while confused, what a truth of programming, life is better when battery bar is green.
 
