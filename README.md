@@ -28,7 +28,7 @@ The name is Elliott, Elliott Yifan Chen.
 
 - 🤩 The food is burger, I wanted to go with pizza, but burger comes with fries.
 
-- 🇨🇳 The music is Jay Chou, mandarin pop is dope, believe it or not.
+- 🇨🇳 The music is Jay Chou, believe it or not, mandarin pop is dope as heck.
 
 - 🙏 The anime is Dragon Ball, let Vegeta defeat Goku once, just once, please.
   
