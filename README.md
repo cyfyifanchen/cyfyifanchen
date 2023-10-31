@@ -6,7 +6,7 @@
 
 A lot of things catch my eye, trying my best to be good at all of them. 100% grug-brained developer, constantly asking dumb quetions, things still work while confused, what a truth of programming, life is better when battery bar is green.
 
-Vimmer, JavaScript, TypeScript, Web Development in Full Stack Mode, Writing, Design, UI, Dribbble, and Pretty Things.
+Vimmer, JavaScript, TypeScript, Web Development in Full Stack Mode, Writing, Design, UI, UX, Dribbble, and Pretty Things.
 
 ###
 
@@ -43,5 +43,5 @@ The name is Elliott, Elliott Yifan Chen.
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=cyfyifanchen&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=cyfyifanchen&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=1" height="180" alt="streak graph"  />
 </div>
