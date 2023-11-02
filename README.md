@@ -18,7 +18,7 @@ Vimmer, JavaScript, TypeScript, Web Development in Full Stack Mode, Writing, Des
 ###
 
 
-The name is Elliott, Elliott Yifan Chen.
+The name is Elliott, Elliott Chen.
 
 - 😑 The city is Shanghai, it has the most coffee shops, but very few places sell bagels.
 
