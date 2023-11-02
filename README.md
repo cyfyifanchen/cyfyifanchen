@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="300" src="images/image2.png"  />
-</div>
-
 ###
 
 A lot of things catch my eye, trying my best to be good at all of them. 100% grug-brained developer, constantly asking dumb quetions, things still work while confused, what a truth of programming, life is better when battery bar is green.
