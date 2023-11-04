@@ -4,12 +4,6 @@ A lot of things catch my eye, trying my best to be good at all of them. 100% gru
 
 Vimmer, JavaScript, TypeScript, Web Development in Full Stack Mode, Writing, Design, UI, UX, Dribbble, and Pretty Things.
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=cyfyifanchen"  />
-</div>
-
 ---
 ###
 
