@@ -33,11 +33,3 @@ The name is Elliott, Elliott Chen.
 - 🙃 The game is dota2, Void chrono teammates is what I do the best.
 
 - 😭 The car is JDM, 2009 R35, 2023 still R35, I wanna see R36 before I die.
-
-<h3 align="left">Stats</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=cyfyifanchen&locale=en&mode=daily&theme=light&hide_border=false&border_radius=5&order=1" height="150" alt="streak graph"  />
-</div>
