@@ -26,4 +26,4 @@ The name is Elliott, Elliott Chen.
 
 - 🙃 The game is dota2, Void chrono teammates is what I do the best.
 
-- 😭 The car is JDM, 2009 R35, 2023 still R35, I wanna see R36 before I die.
+- 😭 The car is JDM, 2009 R35, 2023 still R35, I wanna see R36 before I go to my grave.
