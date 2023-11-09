@@ -1,7 +1,7 @@
 
 The name is Elliott, Elliott Chen.
 
-- 🤔 The language is CSS, it's easy to read, it's impossible to read, no question asked.
+- 🤔 The language is CSS, it's easy to read, it's impossible to read, don't ask why.
   
 - 🤨 The editor is Vim, often spend too much time on hjkl than any other commands.
   
