@@ -1,19 +1,10 @@
-###
-
-A lot of things catch my eye, trying my best to be good at all of them. 100% grug-brained developer, constantly asking dumb quetions, things still work while confused, what a truth of programming, life is better when battery bar is green.
-
-Vimmer, JavaScript, TypeScript, Web Development in Full Stack Mode, Writing, Design, UI, UX, Dribbble, and Pretty Things.
-
----
-###
-
-<h3 align="left">About</h3>
-
-###
-
 
 The name is Elliott, Elliott Chen.
 
+- 🤔 The language is CSS, it's easy to read, it's impossible to read, no question asked.
+  
+- 🤨 The editor is Vim, often spend too much time on hjkl than any other commands.
+  
 - 😑 The city is Shanghai, it has the most coffee shops, but very few places sell bagels.
 
 - 🤩 The food is burger, I wanted to go with pizza, but burger comes with fries.
