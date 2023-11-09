@@ -3,7 +3,7 @@ The name is Elliott, Elliott Chen.
 
 - 🤔 The language is CSS, it's easy to read, it's impossible to read, don't ask why.
   
-- 🤨 The editor is Vim, often spend too much time on hjkl than any other commands.
+- 🤨 The editor is Vim, often spend too much time on hjkl and forget other commands.
   
 - 😑 The city is Shanghai, it has the most coffee shops, but very few places sell bagels.
 
