@@ -16,7 +16,7 @@
 
 <div align="center">
 
- 🤔 The language is CSS, it's easy to read, it's impossible to read, don't ask why.
+ 🤔 The language is CSS, it's easy to write, it's impossible to read, don't ask why.
   
  🤨 The editor is Vim, often spend too much time on hjkl and forget other commands.
 
