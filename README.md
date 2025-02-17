@@ -1,4 +1,3 @@
-
 The name is Elliot, Elliot Chen.
 
 - 🤔 The language is CSS, it's easy to write, it's impossible to read, don't ask why.
