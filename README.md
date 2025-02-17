@@ -1,7 +1,7 @@
 
-The name is Elliott, Elliott Chen.
+The name is Elliot, Elliot Chen.
 
-- 🤔 The language is CSS, it's easy to read, it's impossible to read, don't ask why.
+- 🤔 The language is CSS, it's easy to write, it's impossible to read, don't ask why.
   
 - 🤨 The editor is Vim, often spend too much time on hjkl and forget other commands.
   
@@ -9,7 +9,7 @@ The name is Elliott, Elliott Chen.
 
 - 🤩 The food is burger, I wanted to go with pizza, but burger comes with fries.
 
-- 🇨🇳 The music is Jay Chou, believe it or not, mandarin pop is dope as heck.
+- 🇨🇳 The music is Jay Chou, believe it or not, mandarin pop is dope as hell.
 
 - 🙏 The anime is Dragon Ball, let Vegeta defeat Goku once, just once, please.
   
