@@ -10,10 +10,8 @@
 </div>
 
 <hr />
-
-<div align="center">
+    
  🤔 The language is CSS, it's easy to write, it's impossible to read, don't ask why.
-  
  🤨 The editor is Vim, often spend too much time on hjkl and forget other commands.
  😑 The city is Shanghai, it has the most coffee shops, but very few places sell bagels.
  🤩 The food is pizza, one day I am gonna to be a pizza maker.
@@ -22,4 +20,5 @@
  🧪 The show is Breaking Bad, stop screwing things up, Jessie, but man, you have a heart. 
  🙃 The game is dota2, Void chrono teammates is what I do the best.
  😭 The car is JDM, 2009 R35, 2025 still R35, I wanna see R36 before the end of my life.
-</div>
+    
+
