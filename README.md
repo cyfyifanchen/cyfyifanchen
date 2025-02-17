@@ -1,12 +1,14 @@
 The name is Elliot, Elliot Chen.
 
+- 😏️ The specialty is Voice AI, nothing is cooler than bridging the gap between people and LLMs through interaction we're gifted with.
+
 - 🤔 The language is CSS, it's easy to write, it's impossible to read, don't ask why.
   
-- 🤨 The editor is Vim, often spend too much time on hjkl and forget other commands.
+- 🤨 The editor is Vim, often spend too much time on HJKL and forget other commands.
   
 - 😑 The city is Shanghai, it has the most coffee shops, but very few places sell bagels.
 
-- 🤩 The food is burger, I wanted to go with pizza, but burger comes with fries.
+- 🤩 The food is pizza, one day I am gonna be a pizza maker, Papa Eli!
 
 - 🇨🇳 The music is Jay Chou, believe it or not, mandarin pop is dope as hell.
 
@@ -16,4 +18,4 @@ The name is Elliot, Elliot Chen.
 
 - 🙃 The game is dota2, Void chrono teammates is what I do the best.
 
-- 😭 The car is JDM, 2009 R35, 2023 still R35, I wanna see R36 before the end of my life.
+- 😭 The car is a GTR. It's simply beautiful. My budget, however, is simply... not. So, I bought 1:64 versions of them, my desk looks amazing tho.
