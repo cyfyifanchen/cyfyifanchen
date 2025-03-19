@@ -18,4 +18,4 @@ The name is Elliot, Elliot Chen.
 
 - 🙃 The game is dota2, Void chrono teammates is what I do the best.
 
-- 😭 The car is a GTR. It's simply beautiful. My budget, however, is simply... not. So, I bought 1:64 versions of them, my desk looks amazing tho.
+- 😭 The car is a GTR, breathtakingly beautiful, but man they don't make it anymore.
