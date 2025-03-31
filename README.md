@@ -1,1 +1,1 @@
-Into AI and RTC, cooking at TEN :)
+Cooking @TEN 🍳
