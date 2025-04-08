@@ -3,8 +3,6 @@
 Hey, I'm Elliot Chen, I have two cats and one wife.
 Only thing you need to know about me is that I love pizza.
 
-![not really my cat](/images/profile.png)
-
 <br>
 
 > \[!IMPORTANT]
