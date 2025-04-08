@@ -1,9 +1,17 @@
 ## 👋🏻 About Me
 
-Heyy, I'm Elliot Chen, a pizza lover.
+Hey, I'm Elliot Chen, I have two cats and one wife.
+Only thing you need to know about me is that I love pizza.
+
+![not really my cat](/images/profile.png)
+
+<br>
 
 > \[!IMPORTANT]
+
 > Bro, you are my brother from another mother, why don't you star all your hommie's projects? ❤️‍🔥
+
+<br>
 
 ### ⭐️ OSS Projects
 
