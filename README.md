@@ -1,15 +1,7 @@
-## 👋🏻 About Me
+### 👋🏻 About Me
 
 Hey, I'm Elliot Chen, I have two cats and one wife.
-Only thing you need to know about me is that I love pizza.
-
-<br>
-
-> \[!IMPORTANT]
->
-> Bro, you are my brother from another mother, why don't you star all your hommie's projects? ❤️‍🔥
-
-<br>
+Only thing you need to know about me is that I love pizza.🍕
 
 ### ⭐️ OSS Projects
 
@@ -20,7 +12,7 @@ Only thing you need to know about me is that I love pizza.
 | **🎨 TMAN Designer** `Alpha`<br/>TMAN Designer is a low/no code option to make a cool voice agent. With its easy-to-use workflow UI, you can build things easily. It comes with runtime, dark/light themes, integrated editors and integrated terminals.<br/><br/>![][tman-designer-shield] | ![][tman-designer-banner] |
 | [**🛬 TEN Portal**][ten-docs-link]<br/>A homepage for TEN Framework and different showcases, and of course, it has documentation and a blog, built on top of Fumadocs.<br/><br/>![][ten-docs-shield] | ![][ten-docs-banner] |
 | [**🦸🏻‍♀️ One Person Company**][one-person-company-link]<br/>I created this repo meaning to share all the AI tools to increase my productivity and I hope these tools can help you too.<br/><br/>![][one-person-company-shield] | ![][one-person-company-banner] |
-| [**✌️ My Website**][ten-docs-link]<br/>Cleaning up the repo of my website, so it can be opensourced.<br/><br/>![][ten-docs-shield] | ![][my-website-banner] |
+| **✌️ My Website**<br/>Cleaning up the repo of my website, so it can be opensourced.<br/><br/>![][ten-docs-shield] | ![][my-website-banner] |
 
 [ten-framework-shield]: https://img.shields.io/github/stars/ten-framework/ten_framework?color=ffcb47&labelColor=gray&style=flat-square&logo=github
 [ten-agent-shield]: https://img.shields.io/github/stars/ten-framework/ten-agent?color=ffcb47&labelColor=gray&style=flat-square&logo=github
