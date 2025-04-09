@@ -33,10 +33,13 @@ Only thing you need to know about me is that I love pizza.
 [tman-designer-link]: https://github.com/ten-framework/tman-designer
 [ten-docs-link]: https://doc.theten.ai
 
-[ten-framework-banner]: https://github.com/TEN-framework/docs/blob/main/assets/jpg/1.jpg?raw=true
-[ten-agent-banner]: https://github.com/TEN-framework/docs/blob/main/assets/jpg/3.jpg?raw=true
-[tman-designer-banner]: https://github.com/TEN-framework/docs/blob/main/assets/jpg/4.jpg?raw=true
-[ten-docs-banner]: https://github.com/TEN-framework/docs/blob/main/assets/jpg/2.jpg?raw=true
-
+[ten-framework-banner]: /images/ten-framework.png
+[ten-agent-banner]: /images/ten-agent.png
+[tman-designer-banner]: /images/tman-designer.png
+[ten-docs-banner]: /images/ten-docs.png
+ellio-chen-website.jpg
+ten-agent.jpg
+ten-framework.jpg
+tman-designer.jpg
 [one-person-company-banner]:https://github.com/cyfyifanchen/one-person-company/blob/main/assets/gif/banner-cape.gif?raw=true 
 [one-person-company-link]: https://github.com/cyfyifanchen/one-person-company
