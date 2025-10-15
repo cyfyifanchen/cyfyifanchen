@@ -1,7 +1,3 @@
-### 👋🏻 About Me
-
-Hey, I'm Elliot Chen, I love pizza.🍕
-
 ### ⭐️ OSS Projects
 
 | Project                                                                                                                                                                                                                  | Preview                        |
@@ -12,7 +8,6 @@ Hey, I'm Elliot Chen, I love pizza.🍕
 | [**🎙️ TEN Agent**][ten-agent-link]<br>TEN Agent is a showcase of TEN Framewrok.<br><br>                                                                                                                                  | ![][ten-agent-banner]          |
 | **🎨 TMAN Designer**<br>TMAN Designer is low/no code option to make a voice agent with easy to use workflow UI.<br><br>                                                                                                  | ![][tman-designer-banner]      |
 | [**📒 TEN Portal**][ten-portal-link]<br>The official site of TEN framework, it has documentation and blog.<br><br>![][ten-portal-shield]                                                                                 | ![][ten-portal-banner]         |
-| [**🦸🏻‍♀️ One Person Company**][one-person-company-link]<br>I created this repo meaning to share all the AI tools to increase my productivity and I hope these tools can help you too.<br><br>![][one-person-company-shield] | ![][one-person-company-banner] |
 
 [ten-framework-shield]: https://img.shields.io/github/stars/ten-framework/ten_framework?color=ffcb47&labelColor=gray&style=flat-square&logo=github
 [ten-framework-banner]: https://github.com/user-attachments/assets/7c8f72d7-3993-4d01-8504-b71578a22944
